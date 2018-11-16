@@ -12,6 +12,6 @@ Tags:
 License: CC0
 Resources:
   - Description: All datasets
-    ARN: arn:aws:s3:::openneuro
+    ARN: arn:aws:s3:::openneuro.org
     Region: us-east-1
     Type: S3 Bucket
